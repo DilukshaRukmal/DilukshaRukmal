@@ -1,12 +1,12 @@
 
-
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)]([https://rishavchanda.io](https://indoanalytica.com/static/images/bannerr.gif))
 
 <h1 align="center">Hi 👋, I'm Diluksha Rukmal</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
 
 ---
 
-![alt text](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=1500w)
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 - 🔭 I’m currently working on **Face Recognition Door Lock Project**
 
@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **diluksharukmal@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
