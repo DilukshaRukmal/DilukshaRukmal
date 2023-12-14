@@ -8,9 +8,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
-- 🔭 I’m currently working on **Face Recognition Door Lock Project**
+- 🔭 I’m currently working on **Chatbot developing project*
 
-- 🌱 I’m currently learning **Machine Learning , Tensorflow , Verilog**
+- 🌱 I’m currently learning **Machine Learning , Tensorflow , Pytorch**
 
 - 💬 Ask me about **Electronins, CNN inferance**
 
